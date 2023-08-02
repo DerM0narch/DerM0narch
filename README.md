@@ -16,6 +16,6 @@ I'm DerM0narch, an enthusiastic IT specialist specializing in system integration
 
 <hr>
 <p float="left">
-  <img width="500px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DerM0narch&theme=dark">
-  <img height="142.844px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerM0narch&theme=dark"> 
+  <img width="600px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DerM0narch&theme=dark">
+  <img height="171.422px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerM0narch&theme=dark"> 
 </p>
