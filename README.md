@@ -1,6 +1,6 @@
 <h1 align="center">👑DerM0narch👑</h3>
 
-I'm DerM0narch, an enthusiastic IT specialist specializing in system integration with a love for coding and technology. I sometimes code, at least when I find the motivation for it, but most of the time, I admire the code from others, like a lurking observer.
+I'm DerM0narch, an IT specialist into system integration. I enjoy coding when the motivation hits, but mostly, I'm here to appreciate the craft of others. 
 
 ## 🛠️ Languages
 
